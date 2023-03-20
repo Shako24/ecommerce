@@ -1,5 +1,0 @@
-The reference to the tutorial on building an e-commerce website by JavaScript Mastery can be cited as follows:
-
-JavaScript Mastery. (2020, August 5). Full E-Commerce Website Tutorial - React, Sanity.io [Video]. YouTube. https://www.youtube.com/watch?v=4mOkFXyxfsU&ab_channel=JavaScriptMastery
-
-I hope this helps!
